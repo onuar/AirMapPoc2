@@ -11,6 +11,7 @@ https://gist.github.com/heron2014/e60fa003e9b117ce80d56bb1d5bfe9e0
 - cd YourProjectName
 - npm install react-native-maps --save
 - use "react-native-maps": ">=0.12.4" instead of "react-native-maps": "^0.12.4" in package.json file
+(note@11092017: I have tried "^0.16.3" version and it looks that is solved. I think you can skip this step.)
 - npm update
 - react-native link
 - cd ios
