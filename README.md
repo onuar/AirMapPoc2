@@ -16,6 +16,7 @@ https://gist.github.com/heron2014/e60fa003e9b117ce80d56bb1d5bfe9e0
 - cd ios
 - touch Podfile
 - add [this](https://raw.githubusercontent.com/airbnb/react-native-maps/master/example/ios/Podfile) to Podfile 
+- Don't forget to change this line: target 'your-project-name' do
 - pod install (required cocoapods)
 - cd ..
 - add MapView to your code
